@@ -1,0 +1,12 @@
+milan,2,3,juventus
+real madrid,2,11,barcelona
+milan,0,0,real madrid
+juventus,0,0,barcelona
+milan,1,1,barcelona
+JUVENTUS,1,0,  real madrid
+juventus,1,1,milan
+barcelona,3,2,real madrid
+real madrid,3,1,milan
+barcelona,2,0,juventus
+barcelona,0,0,milan
+real madrid,1,0,juventus
