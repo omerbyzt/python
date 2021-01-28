@@ -3,6 +3,8 @@
 
 Video sonunda console ekranından çalışacak bir todolist uygulaması yazpılıyor
 Girilen komutlara göre bir dosya oluşuturup bu dosyaya eleman ekleme ve çıkarma işlemi yapılıyor
+
+# cikar düzgün calismiyor
 """
 import sys
 
